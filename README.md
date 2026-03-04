@@ -22,7 +22,7 @@ python analysis.py
 
 If you use this software or the methodology described in this seminar exercise, please cite it as follows:
 
-**Germán Gil Planes**. (2026). *data-science-seminar* (Version v1.0.0). GitHub. https://github.com/germaangil/data-science-seminar. DOI: 10.5281/zenodo.18854979
+**Germán Gil Planes**. (2026). *data-science-seminar* (Version v1.0.0). GitHub. https://github.com/germaangil/data-science-seminar. DOI: 10.5281/zenodo.18854980
 
 ## License
 
